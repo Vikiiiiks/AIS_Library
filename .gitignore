@@ -1,0 +1,17 @@
+/[Bb]in/
+/[Oo]bj/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.mdf
+*.ldf
+*.sqlite
+*.sqlite-journal
+*.log
+logs/
+*.bak
+*.zip
+.DS_Store
+Thumbs.db
